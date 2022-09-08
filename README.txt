@@ -11,3 +11,7 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software Foundation,
 Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 This folder contains the implementation of XXXX
+
+This program is developed as part of an assignment at XXXXXXX
+Based on an initial framework by Vlad Estivill-Castro / Griffith University
+All rights regarding the intellectual property generated here are exclusive property of the author under the laws of CITY AND COUNTRY
